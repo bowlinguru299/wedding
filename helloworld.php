@@ -5,7 +5,7 @@
     <body>
         <?php
             if (array_key_exists('content', $_POST)) {
-            echo "You wrote:<pre>\n";
+            echo "You wrote fsdg:<pre>\n";
             echo htmlspecialchars($_POST['content']);
             echo "\n</pre>";
             }
