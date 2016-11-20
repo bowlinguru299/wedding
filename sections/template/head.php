@@ -8,14 +8,14 @@
     <link rel="icon" href="images/favicon.ico" type="image/x-icon">
     <!--
     
+    <link href="revolution/css/settings.css" rel="stylesheet">
+    <link href="revolution/css/layers.css" rel="stylesheet">
+    <link href="revolution/css/navigation.css" rel="stylesheet">
     -->
     <link href="template/css/icon-font/font-awesome.css" rel="stylesheet">
     <link href="template/css/icon-font/pe-icon-7.css" rel="stylesheet">
     <link href="template/css/bootstrap.min.css" rel="stylesheet">
     <link href="template/css/masterslider/masterslider.css" rel="stylesheet">
-    <link href="revolution/css/settings.css" rel="stylesheet">
-    <link href="revolution/css/layers.css" rel="stylesheet">
-    <link href="revolution/css/navigation.css" rel="stylesheet">
     
      
     <link href="template/css/animsition.css" rel="stylesheet">
