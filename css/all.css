@@ -43,6 +43,14 @@ h2 {
     color: #040404;
     padding: 25px;
     border-radius: 15px;
+    margin: 25px 0 0 0;
+}
+.story:first-child{
+    margin: 0;
+}
+
+.story p:last-child{
+    margin: 0;
 }
 
 .item-slider .bx-wrapper img {
@@ -123,6 +131,15 @@ h2 {
     margin: 0 0 0 80px;
 }
 
+p a {
+    color: #f93637;
+    text-decoration: underline;
+}
+
+p a:hover {
+    color: #F26F70;
+    text-decoration: underline;
+}
 
 /*****
  *  Tablet

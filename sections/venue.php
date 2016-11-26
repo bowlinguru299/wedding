@@ -9,12 +9,11 @@
    <!-- <div class="map-wrap">
 
         <div class="gmap_canvas"
-            data-latitude="39.641941" 
-            data-longitude="-105.872262" 
+            data-latitude="39.687573" 
+            data-longitude="-105.437164" 
             data-style-num="2" 
             data-marker-location1="28194 US-6, Keystone, CO 80435"
-            data-marker-location2="8500 Peña Blvd, Denver, CO 80249"
-            data-marker2-visible="false"
+            data-marker-location2="8500 Pena Blvd, Denver, CO 80249"
              >
         </div>
 
@@ -26,12 +25,11 @@
                 <div class="map-wrap">
             
                     <div class="gmap_canvas"
-                        data-latitude="39.641941" 
-                        data-longitude="-105.872262" 
+                        data-latitude="39.698437" 
+                        data-longitude="-105.476303" 
                         data-style-num="2" 
                         data-marker-location1="28194 US-6, Keystone, CO 80435"
-                        data-marker-location2="8500 Peña Blvd, Denver, CO 80249"
-                        data-marker2-visible="false"
+                        data-marker-location2="17th & Welton, Denver, CO 80202"
                          >
                     </div>
             
