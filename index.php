@@ -13,6 +13,8 @@
                 <?php include 'sections/hero.php'; ?>
                 <?php include 'sections/story.php'; ?>
                 <?php include 'sections/venue.php'; ?>
+                <?php include 'sections/timeline.php'; ?>
+                <?php include 'sections/logistics.php'; ?>
             </div>
         </div>
         <? /*include 'sections/template/nav_menu.php'; */ ?>

@@ -53,7 +53,7 @@ h2 {
     background-color: #dfdfdf;
 }
 .item-slider .bx-wrapper .bx-pager.bx-default-pager a.active {
-    background-color: #dfdf04;
+    background-color: #F26F70;
 }
 
 .table.row{
@@ -74,7 +74,53 @@ h2 {
 }
 
 #fp-nav ul li a.active span {
-    background-color: #dfdf04;
+    background-color: #F26F70;
+}
+
+.timeline {
+    border: solid #F26F70;
+    border-width: 0 0 0 5px;
+    display: table;
+}
+
+.timeline .row {
+    margin: 0;
+    display: table-row;
+}
+
+.timeline .bar {
+    background-color: #F26F70;
+    min-width: 15px;
+    width: 100%;
+    height: 2px;
+}
+
+.timeline .event {
+    margin: 10px 0;
+    border: 1px solid #dfdfdf;
+    border-radius: 15px;
+    padding: 15px;
+    background-color: #f4f4f4;
+    float: left;
+}
+
+.timeline .event .time {
+    float: left;
+}
+
+.timeline .event h3 {
+    margin: 0 0 10px 80px;
+    line-height: 24px;
+}
+
+.timeline .event .day {
+    font-size: 28px;
+    color: #606060;
+}
+
+.timeline .event .description {
+    max-width: 450px;
+    margin: 0 0 0 80px;
 }
 
 
@@ -96,7 +142,15 @@ h2 {
         display: block;
         padding-bottom: 25px;
     }
-          
+    
+    .timeline .table.row{
+        display: table;
+    }
+
+    .timeline .table.row .cell {
+        display: table-cell;
+    }
+
 }
 
 
