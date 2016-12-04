@@ -9,24 +9,21 @@
             <div class="col-md-6 col-sm-12 cell">
                 <div class="story">
                   <p>
-                    We met on the internet. Went to the Taste of Colorado.
-                    Consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                    ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-                    quis nostrud exercitation ullamco laboris nisi ut aliquip 
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-                    in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                    Excepteur sint occaecat cupidatat non proident, sunt in culpa
-                    qui officia deserunt mollit anim id est laborum
+                    Lyndsay and Alex found each other online. Lyndsay thought 
+                    Alex seemed fun and had a great smile. Alex was astonished
+                    such a pretty woman was reaching out to him. They decided
+                    to meet at an annual local festival, The Taste of Colorado. 
+                    We got to know each other over a plate of funnel cake, with
+                    Hammer Time playing in the background - how romantic!
                   </p>
                   <p>
-                    Alex proposed at Brainard Lake. Lorem ipsum dolor sit amet, 
-                    consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                    ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-                    quis nostrud exercitation ullamco laboris nisi ut aliquip 
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-                    in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                    Excepteur sint occaecat cupidatat non proident, sunt in culpa
-                    qui officia deserunt mollit anim id est laborum
+                    After about six months, we went cross-country skiing for 
+                    the first time.  During the lunch break, our friend asked
+                    Alex “So when are you marrying her?” Two years later, and
+                    no more than 100 yards away, Alex asked Lyndsay to be his
+                    lifelong adventure partner.  To which she replied “What? 
+                    Are you kidding me?  Is this for real!”, and repeated that
+                    about six times before finally saying “YES! Of Course!”
                   </p>
                 </div>
             </div>

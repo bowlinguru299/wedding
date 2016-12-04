@@ -8,7 +8,7 @@
     </div>
     <div class="container-fluid">
         <div class="row table">
-            <div class="col-sm-7 cell">
+            <div class="col-sm-6 cell">
                 <div class="story">
                   <p>
                     Arapahoe Basin is a quick 85 miles from Denver International 
@@ -31,6 +31,8 @@
                     a 15-25% discount!
                   </p>
                 </div>
+            </div>
+            <div class="col-md-6 cell">
                 <div class="story">
                   <p>
                     <a href="http://www.summitexpress.com/">Summit Express</a> provides 
@@ -38,8 +40,16 @@
                     Keystone, Silverthorn and Dillon.
                   </p>
                 </div>
-            </div>
-            <div class="col-md-5 cell">
+                <div class="story">
+                  <p>
+                    Hertz is offering our guests rates as low as $51 per day or $220 per 
+                    week for the weeks before and after our wedding.  Book at 
+                    <a href="https://www.hertz.com">www.hertz.com</a> and enter
+                    "Discount or Promotion Code" Convention Number 01PW0020. You can also
+                    book by calling <a href="1-800-654-2240">800.654.2240</a> -- again 
+                    mention Convention Number 01PW0020 to ensure you get the best rate!
+                  </p>
+                </div>
             </div>
         </div>
     </div>

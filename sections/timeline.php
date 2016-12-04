@@ -5,7 +5,9 @@
                 Timeline
             </h2>
         </div>
-        
+        <p>
+          Please check back for updates as times may change.
+        </p>
         <div class="timeline">
             <div class="row table">
                 <div class="cell">
@@ -28,7 +30,7 @@
                 <div class="cell">
                     <div class="event">
                         <span class="time">
-                            5:00 pm
+                            ??? pm
                         </span>
                         <h3>Prenuptial Dinner</h3>
                         <p class="description">
@@ -82,7 +84,9 @@
                         </span>
                         <h3>Chairlift begins Running</h3>
                         <p class="description">
-                            At 4:30, the chair lift to the venue will start running
+                            The Black Mountain Express chair lift will take you 
+                            from the mountain base to the mid-mountain Black Mountain
+                            Lodge
                         </p>                
                     </div>
                 </div>
@@ -99,7 +103,7 @@
                         </span>
                         <h3>Ceremony</h3>
                         <p class="description">
-                            OMG, its happening!
+                            Please  refrain from using your 
                         </p>                
                     </div>
                 </div>
@@ -133,7 +137,8 @@
                         </span>
                         <h3>Dinner</h3>
                         <p class="description">
-                            Enjoy some hors d'oeuvres and drinks while we take pictures.
+                            A buffet-style meal prepared by Executive Chef Christopher 
+                            Rybak
                         </p>                
                     </div>
                 </div>
