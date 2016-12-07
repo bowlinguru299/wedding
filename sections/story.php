@@ -13,12 +13,12 @@
                     Alex seemed fun and had a great smile. Alex was astonished
                     such a pretty woman was reaching out to him. They decided
                     to meet at an annual local festival, The Taste of Colorado. 
-                    We got to know each other over a plate of funnel cake, with
+                    They got to know each other over a plate of funnel cake, with
                     Hammer Time playing in the background - how romantic!
                   </p>
                   <p>
-                    After about six months, we went cross-country skiing for 
-                    the first time.  During the lunch break, our friend asked
+                    After about six months, they went cross-country skiing for 
+                    the first time.  During the lunch break, a friend asked
                     Alex “So when are you marrying her?” Two years later, and
                     no more than 100 yards away, Alex asked Lyndsay to be his
                     lifelong adventure partner.  To which she replied “What? 

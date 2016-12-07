@@ -14,5 +14,7 @@
         // recordHistory: false,
         // animateAnchor: false
     });
-
+    
+    
 })(jQuery);
+

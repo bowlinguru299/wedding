@@ -1,5 +1,5 @@
 
-<section class="section bg-pattern-dark" data-id="registry" data-name="Registry">
+<section class="section bg-pattern" data-id="registry" data-name="Registry">
     <div class="container-fluid">
         <div class="row">
             <h2 class="col-sm-12">
