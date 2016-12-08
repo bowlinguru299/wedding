@@ -66,6 +66,9 @@ h2 {
 
 .item-slider .bx-wrapper img {
     border-radius: 15px;
+    max-height: 60vh;
+    width: auto;
+    margin: 0 auto;
 }
 
 .item-slider .bx-wrapper .bx-pager.bx-default-pager a {

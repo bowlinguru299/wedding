@@ -26,7 +26,7 @@
                 <?php include 'sections/logistics.php'; ?>
                 <?php include 'sections/timeline.php'; ?>
                 <?php include 'sections/rsvp.php'; ?>
-                <?php include 'sections/registration.php'; ?>
+                <?php /*include 'sections/registration.php'; */ ?>
             </div>
         </div>
         <? /*include 'sections/template/nav_menu.php'; */ ?>

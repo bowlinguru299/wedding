@@ -40,9 +40,10 @@
                         data-bx-prev-selector=".item-slider-prev"
                         data-bx-next-selector=".item-slider-next"
                         data-bx-speed="600">
-                      <li><img src="/images/intro_background.jpg" title="Funky roots" /></li>
-                      <li><img src="/images/intro_background.jpg" title="The long and winding road" /></li>
-                      <li><img src="/images/intro_background.jpg" title="Happy trees" /></li>
+                      <li><img src="/images/lyndsay_has_no_idea.jpg" title="Lyndsay has no idea what's coming!" /></li>
+                      <li><img src="/images/the_proposal.jpg" /></li>
+                      <li><img src="/images/lyndsay_is_shocked.jpg" title="Funky roots" /></li>
+                      <li><img src="/images/lyndsay_alex_engagement.jpg" title="Happy trees" /></li>
                     </ul>
                 </div>
             </div>
