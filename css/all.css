@@ -16,6 +16,13 @@ iframe{
     height: 80vh;
 }
 
+.next-section {
+    font-size: 8vh;
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+
 .hero {
     background-image: url('/images/intro_background.jpg');
     background-position: center center;

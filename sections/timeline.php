@@ -34,7 +34,7 @@
                         </span>
                         <h3>Prenuptial Dinner</h3>
                         <p class="description">
-                            Joini us for dinner and games as our family and friends
+                            Join us for dinner and games as our family and friends
                             get to know each other.  Check back later for more details.
                         </p>                
                     </div>

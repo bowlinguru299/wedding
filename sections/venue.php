@@ -43,6 +43,8 @@
                     Lodge to celebrate our union. Located at 11,550 feet above sea
                     level and in the middle of White River National Forest, it 
                     will both literally and figuratively take your breath away.
+                    Arapahoe Basin is a quick 85 miles from Denver International 
+                    Airport, and only 8 minutes from Keystone, Colorado.
                   </p>
                 </div>
             </div>

@@ -8,6 +8,8 @@ handlers:
   static_dir: template/css
 - url: /template/js
   static_dir: template/js
+- url: /template/fonts
+  static_dir: template/fonts
 - url: /images
   static_dir: images
 - url: /css

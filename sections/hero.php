@@ -8,4 +8,5 @@
             Two become Weino 
         </h1>
     </div>
+    <a class="next-section fa fa-angle-down" href="#story"></a>
 </section >
