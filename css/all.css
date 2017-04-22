@@ -10,10 +10,11 @@ iframe{
 }
 
 .iframe-wrapper {
-    overflow: auto;  
+    overflow: hidden;  
     -webkit-overflow-scrolling: touch; 
     width:100%;
-    height: 80vh;
+    height: 1020px;
+    padding: 0 0 20px 0;   
 }
 
 .next-section {
@@ -160,6 +161,18 @@ p a {
 p a:hover {
     color: #F26F70;
     text-decoration: underline;
+}
+
+.registry-item-spacer {
+    width: 20px;
+}
+
+.registry-item {
+    display: block;
+    background-color: white;
+    margin: 30px;
+    height: 50%;
+    width: 35%;
 }
 
 /*****
