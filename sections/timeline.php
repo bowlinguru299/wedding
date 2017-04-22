@@ -30,7 +30,7 @@
                 <div class="cell">
                     <div class="event">
                         <span class="time">
-                            ??? pm
+                            6 pm
                         </span>
                         <h3>Prenuptial Dinner</h3>
                         <p class="description">
@@ -61,11 +61,11 @@
                 <div class="cell">
                     <div class="event">
                         <span class="time">
-                            4:15 pm
+                            4:00 pm
                         </span>
                         <h3>Arrive at Arapahoe Basin</h3>
                         <p class="description">
-                            Please plan on arriving by 4:15 pm at the latest. The 6th Alley
+                            Please plan on arriving by 4:00 pm at the latest. The 6th Alley
                             Bar at the base of Arapahoe Basin will be open.
                         </p>                
                     </div>
@@ -79,7 +79,7 @@
                 <div class="cell">
                     <div class="event">
                         <span class="time">
-                            4:30 pm
+                            4:15 pm
                         </span>
                         <h3>Chairlift begins Running</h3>
                         <p class="description">
@@ -98,7 +98,7 @@
                 <div class="cell">
                     <div class="event">
                         <span class="time">
-                             5:00 pm
+                             4:30 pm
                         </span>
                         <h3>Ceremony</h3>
                         <p class="description">
@@ -115,7 +115,7 @@
                 <div class="cell">
                     <div class="event">
                         <span class="time">
-                             5:30 pm
+                             5:00 pm
                         </span>
                         <h3>Cocktail Hour</h3>
                         <p class="description">
@@ -132,7 +132,7 @@
                 <div class="cell">
                     <div class="event">
                         <span class="time">
-                             6:30 pm
+                             6:00 pm
                         </span>
                         <h3>Dinner</h3>
                         <p class="description">
