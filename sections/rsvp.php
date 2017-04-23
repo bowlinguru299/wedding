@@ -9,9 +9,10 @@
         
         <div class="iframe-wrapper">
             <iframe  src="https://docs.google.com/forms/d/e/1FAIpQLSe9yB2sMlRaz7oX29GgsdzBLSoaWo2xyUEI_uV01S6p92psuw/viewform?embedded=true" 
-                 frameborder="0" marginheight="0" marginwidth="0">
+                 frameborder="0" marginheight="0" marginwidth="0" scrolling="no" >
                 Loading...
             </iframe>
         </div>
+        <a class="next-section fa fa-angle-down" href="#registry"></a>
     </div>
 </section>
